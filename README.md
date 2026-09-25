@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Architecture%20Gallery&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=How%20all%20my%20DevOps%20%26%20Cloud%20projects%20fit%20together&descAlignY=62&descSize=18" width="100%" />
 
